@@ -1,0 +1,35 @@
+body {
+  background-image: url("https://images6.alphacoders.com/133/1331511.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+   background-size: 100%;
+}
+body {
+  color: 	black;
+}
+
+h1 {
+  color: 	#000000;  
+}
+h2{
+  color: #000000;
+}
+h3{
+  color:  #000000;
+}
+h4{
+  color:  #00000;
+}
+
+h1{
+  
+  font-size: 90px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
